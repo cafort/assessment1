@@ -58,7 +58,7 @@ nav a:hover {
     text-decoration: underline;
 }
 
-/* Article */
+/* Article  and article footer*/
 article {
     float: left;
     padding: 20px;
@@ -82,7 +82,7 @@ article footer img {
     padding: 5px;
 }
 
-/* Sidebar, sidebar sections and lists in the sidebar in the sidebar*/
+/* Sidebar, sidebar sections, lists in the sidebar in the sidebar and clear floats*/
 aside {
     float: right;
     padding-top: 20px;
